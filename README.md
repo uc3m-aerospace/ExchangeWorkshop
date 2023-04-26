@@ -3,5 +3,5 @@ Repository with the materials and discussions of the Exchange Workshops of the P
 
 ## List of Workshops
 
-1. [Paraview for efficient data exploration and figure preparation](Paraview/paraview.md)
+1. [Paraview for efficient data exploration and figure preparation](Paraview/Paraview.md)
 
